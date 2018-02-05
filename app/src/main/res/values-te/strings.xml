@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="order_summary_name">పేరు</string>
+    <string name="thank_you">ధన్యవాదాలు</string>
+    <string name="toppings">టాపింగ్స్</string>
+    <string name="price">మొత్తం విలువ</string>
+    <string name="whip">" విప్పింగ్ క్రీమ్"</string>
+    <string name="order_button">ఆర్డర్</string>
+    <string name="quantity_button">మొత్తము</string>
+    <string name="order_summary">"కొనుగోలు వివరణ "</string>
+    <string name="chocolate">" చాక్లెట్"</string>
+    <string name="name">" పేరు"</string>
+</resources>
